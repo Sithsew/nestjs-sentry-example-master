@@ -23,6 +23,7 @@ AppModule = __decorate([
                 logLevel: types_1.LogLevel.Debug,
                 environment: 'development',
                 tracesSampleRate: 1.0,
+                release: "release-1.0.0"
             }),
         ],
         controllers: [app_controller_1.AppController],

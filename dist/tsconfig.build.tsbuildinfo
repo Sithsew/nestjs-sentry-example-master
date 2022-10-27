@@ -1892,7 +1892,7 @@
         "affectsGlobalScope": false
       },
       "../src/app.module.ts": {
-        "version": "3b468bf75b086ee2781fd4e6ed4c8c1ab0481ab3cd361bca00762f8b2503bd92",
+        "version": "1e8c28a4e6516a9f2b732beeabd4154dab0a236745fac1d9561666ffcadfa310",
         "signature": "b82491e2990291580288c5602d4c017238977749d52b17391f0e45d9a29be644",
         "affectsGlobalScope": false
       },

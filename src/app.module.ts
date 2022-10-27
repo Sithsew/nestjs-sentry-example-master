@@ -13,6 +13,7 @@ import { AppService } from './app.service';
       logLevel: LogLevel.Debug,
       environment: 'development',
       tracesSampleRate: 1.0,
+      release: "release-1.0.0"
     }),
   ],
   controllers: [AppController],

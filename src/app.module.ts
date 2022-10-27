@@ -8,8 +8,7 @@ import { AppService } from './app.service';
   imports: [
     SentryModule.forRoot({
       debug: true,
-      dsn:
-        'https://fd6f65bf46a8413a8dfeaaedf8202c60@o4504042661150720.ingest.sentry.io/4504047937257472',
+      dsn: "https://4478e5148514412897ed0389c848b25c@o4504042661150720.ingest.sentry.io/4504054567075840",
       logLevel: LogLevel.Debug,
       environment: 'development',
       tracesSampleRate: 1.0,
